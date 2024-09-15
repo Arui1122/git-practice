@@ -12,8 +12,10 @@
 - HEAD：這個檔案指出目前檢出的 branch 或 commit。比如說在 main branch 上打 cat .git/HEAD，會出現 ref: refs/heads/main，意思是現在HEAD指向main這個branch。
 - index：暫存區的資料。當執行 git add 指令時，暫存區會更新，而這個檔案反映了目前被追蹤但尚未 commit 的變更。
 
-3. Commit Message 的寫法與 Style 
+3. Commit Message 的寫法與 Style
+
 自己最常用
 - git commit -m "feat: 增加搜尋功能"
 - git commit -m "fix: 修正使用者登入的錯誤"
+
 之類的
