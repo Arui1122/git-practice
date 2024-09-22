@@ -1,6 +1,6 @@
 // stack.js
 export default class Stack {
-  // # 符號表示這是一個私有字段，只能在類內部訪問
+  // # 符號表示這是一 private propeties，只能在這個 class access。有點像 Java 裡面的 private 成員變數。
   #items;
 
   constructor() {
