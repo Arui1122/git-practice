@@ -33,6 +33,6 @@ stack.print();
 
 console.log("Is empty after clear?", stack.isEmpty());
 
-// 測試邊界情況
+// 測試 edge case
 console.log("Pop from empty stack:", stack.pop());
 console.log("Peek from empty stack:", stack.peek());
