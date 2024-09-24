@@ -1,8 +1,8 @@
-# Node.js 安裝指南和版本選擇說明
+# Node.js 版本安裝選擇說明
 
 ## 安裝的 Node.js 版本
 
-建議安裝 Node.js 的長期支持版本（LTS, Long Term Support）。截至2024年9月，最新的 LTS 版本是 20.17.0。
+我會選擇安裝 Node.js 的長期支持版本（LTS, Long Term Support）。截至2024年9月，最新的 LTS 版本是 20.17.0。
 
 ### 為什麼選擇 LTS 版本？
 
