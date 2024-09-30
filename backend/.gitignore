@@ -1,0 +1,26 @@
+# 忽略 node_modules 目錄
+node_modules/
+
+# 忽略 .env 文件
+.env
+
+# 忽略日誌文件
+*.log
+
+# 忽略 macOS 系統文件
+.DS_Store
+
+# 忽略 IDE/編輯器配置文件
+.vscode/
+.idea/
+
+# 忽略 npm 除錯日誌
+npm-debug.log*
+
+# 忽略 yarn 日誌文件
+yarn-debug.log*
+yarn-error.log*
+
+# 忽略構建輸出目錄
+/dist
+/build
