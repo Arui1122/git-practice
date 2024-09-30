@@ -17,3 +17,5 @@ async function runJobs() {
   console.log(await doJobPromise('寫功課', 1000));
   console.log(await doJobPromise('吃午餐', 2000));
 }
+
+runJobs();
