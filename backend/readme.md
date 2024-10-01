@@ -42,9 +42,9 @@
 
 ### 2. curl 是什麼？如何用來測試網路連線？
 
-- curl 是一個命令列工具，用於傳輸數據
+- curl 是一個命令列工具，用於傳輸資料
 - 基本用法: `curl http://localhost:3000/`
 - 常用參數:
-  - `-X`: 指定 HTTP 方法 (GET, POST 等)
-  - `-H`: 添加 HTTP 標頭
-  - `-d`: 發送 POST 數據
+  - `-X`: 指定 HTTP Method (GET, POST 等)
+  - `-H`: 添加 HTTP Header
+  - `-d`: 發送 POST data
